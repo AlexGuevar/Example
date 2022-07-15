@@ -37,5 +37,7 @@ class HomeActivity : AppCompatActivity() {
         return navController.navigateUp(appBarConfiguration)
                 || super.onSupportNavigateUp()
         //hola
+        //hola 2
+        //hola 3
     }
 }
